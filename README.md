@@ -1,4 +1,7 @@
 Hello 👋 
-I am a Software Engineer who likes to do *awesome* stuff.
-<br>
-I write a lot of Rust code so if you need help reach out over at https://asynkron.xyz/.
+
+I am a software engineer who likes to create awesome software, usually in the Rust programming language.   
+When I'm not writing code, I'm on my bike chasing watts ⚡️
+
+Currently working on:
+* Halloy an IRC client - https://halloy.squidowl.org/
