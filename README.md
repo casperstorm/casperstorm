@@ -4,4 +4,4 @@ I am a software engineer who likes to create awesome software, usually in the Ru
 When I'm not writing code, I'm on my bike chasing watts ⚡️
 
 Currently working on:
-* Halloy an IRC client - https://halloy.squidowl.org/
+* Halloy an IRC client - https://halloy.chat/
